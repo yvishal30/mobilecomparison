@@ -1,0 +1,39 @@
+.Comp_img1 {
+    width: 6rem;
+    position: relative;
+    left: 14rem;
+    height: 11rem;
+}
+.mobile_name{
+    position: relative;
+    left: 14rem;
+}
+.align_center{
+    text-align:center;
+}
+.th_head{
+    color: red!important;
+    font-size: 20px!important;
+}
+.main_table{
+    position: relative;
+    top: 10rem;
+}
+.table_heading{
+    position: relative;
+    top: 9rem;
+}
+.first_list {
+    margin-top: 65px;
+    display: flex;
+    width: 15rem;
+    position: relative;
+    left: 62rem;
+    top: -3.5rem;
+    font-size: 35px;
+}
+.social_icon {
+    background-color: #414347;
+    position: relative;
+    height: 69px;
+}

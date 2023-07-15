@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.about_us {
+    position: relative;
+    top: 4rem;
+    left: 28rem;
+    width: 42rem!important;
+    height: 31rem;
+    box-shadow: 0 0 10px #dcdcdc;
+}
+.profile_1 {
+    width: 51%;
+    height: 85%;
+    border-radius: 50%;
+    position: relative;
+    left: 4rem;
+    top: 5rem;
+}
+.profile_2{
+    width: 51%;
+    height: 85%;
+    border-radius: 50%;
+    position: relative;
+    left: 5rem;
+    top: 5rem;
+}
+.profile_name{
+    position: relative;
+    top: 6rem;
+    left: 5rem;
+}
+.container-fluid, .row {
+    margin: 0!important;
+    padding: 0!important;
+}
+.navbar-brand {
+    margin-left: 123px;
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 914px;
+    margin-bottom: 0;
+    list-style: none;
+}
+.navbar-brand img {
+    border-radius: 50rem;
+    width: 4rem;
+}
+footer {
+    position: relative;
+    top: 15rem;
+}
+.footer1 {
+    position: relative;
+    left: 13rem;
+}
+
+.footer1, .footer2 {
+    position: relative;
+    top: 4rem;
+    width: 37%;
+}
+.vertical_line {
+    position: relative;
+    width: 10rem;
+    height: 17rem;
+    top: 3rem;
+    left: 3rem;
+    border-right: 1px solid red;
+}
+.footer2 {
+    position: relative;
+    left: 13rem;
+}
+.foot h5 {
+    font-size: 1.25rem;
+    color: #fff;
+    border-bottom: 2px solid red;
+    width: 152px;
+}
+.pg, .pb {
+    position: relative;
+    top: 1rem;
+}
+.pg li, .pb li {
+    color: #fff;
+    list-style: none;
+    line-height: 2.3rem;
+}
+.social_icon {
+    background-color: #414347;
+    position: relative;
+    height: 69px;
+}
+.first_list a {
+    color: #fff;
+}
+.first_list li {
+    /* margin-top: 65px; */
+    font-size: 35px;
+}
+
+.first_list li {
+    list-style-type: none;
+    color: #fff;
+    position: relative;
+    left: 17rem;
+    /* background: red; */
+    width: 9rem;
+}
+.first_list {
+    margin-top: 65px;
+    display: flex;
+    width: 15rem;
+    position: relative;
+    left: 62rem;
+    top: -3.5rem;
+}
+.pg a{
+    color: #fff;
+    text-decoration: none;
+}
+.pb a{
+    color: #fff;
+    text-decoration: none;
+}
